@@ -1,0 +1,7 @@
+namespace LatBuilder {
+
+/**
+ * Various functors.
+ */
+namespace Functor {
+}}

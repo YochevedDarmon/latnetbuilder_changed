@@ -1,0 +1,36 @@
+
+package:
+    name: latnetbuilder
+    version: "2.1.2"
+
+source:
+    path: ../..
+
+build:
+    script_env:
+        - WITHOUT_WAF # [not win]
+        - LATNETBUILDER_INSTALL_DIR # [not win]
+    number: 0
+
+requirements:
+    build:
+        - python==3.7.0
+        - setuptools
+    run:
+        - python==3.7.0
+        - ipywidgets>=7.1.0
+        - widgetsnbextension>=3.1.0
+        - notebook>=5.3.0
+        - matplotlib>=2.1.0
+        - numexpr
+        - appmode
+        - docker-py # [win]
+
+test:
+    imports:
+        - latnetbuilder
+
+about:
+  home: https://github.com/umontreal-simul/latnetbuilder
+  license: Apache License, Version 2.0
+  license_file: LICENSE.md

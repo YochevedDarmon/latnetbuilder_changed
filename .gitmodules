@@ -1,0 +1,3 @@
+[submodule "latticetester"]
+	path = latticetester
+	url = https://github.com/umontreal-simul/latticetester.git

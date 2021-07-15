@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*.pyc
+*.log
+__pycache__
+build/
+version*
+doc/html
+NOTES.md

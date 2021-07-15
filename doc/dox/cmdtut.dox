@@ -1,0 +1,47 @@
+// This file is part of LatNet Builder.
+//
+// Copyright (C) 2012-2018  Pierre L'Ecuyer and Universite de Montreal
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+/** \page cmdtut Command-Line Tutorial
+
+This tutorial teaches how to use the LatNet Builder command-line tool to
+search for highly uniform point sets.
+
+It is assumed in the examples that the <code>latnetbuilder</code>
+executable program can be found by the user's shell.  If it is not the case, the
+full path to the executable program, for example
+<code>/path/to/latnetbuilder</code>, should be used in the place of just
+<code>latnetbuilder</code>.
+
+Alternatively, the \ref gui can be used to construct a command line, to
+invoke the command-line tool and to see the results.
+
+
+This tutorial is divided in three sections:
+ - \subpage cmdtut_quickrecipes
+    \n This section gives a quick overview on how to use the software.
+ - \subpage cmdtut_spec
+    \n This section gives more advanced details on how to use the different \ref feats "features" of the software in the command-line tool.
+ - \subpage cmdtut_summary
+    \n This section summarizes all the options of the command-line tool.
+
+The following typesetting semantics are adopted:
+- <code>verbatim</code> for text to be typed as is;
+- <code><var>arg</var></code> for text to be substituted;
+- when a command is broken into multiple lines, a trailing backslash (\\)
+  indicates that the command is continued on the next line.
+*/
+
+vim: ft=doxygen spelllang=en spell

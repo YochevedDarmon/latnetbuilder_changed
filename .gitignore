@@ -1,0 +1,10 @@
+.waf*
+.lock-waf_*
+build
+version-*
+__pycache__
+.ipynb_checkpoints
+.vscode
+.DS_Store
+python-wrapper/notebooks/latnetbuilder_results
+python-wrapper/notebooks/latnetbuilder-results*

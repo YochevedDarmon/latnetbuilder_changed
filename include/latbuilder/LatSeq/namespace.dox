@@ -1,0 +1,8 @@
+namespace LatBuilder {
+/**
+ * Sequences of Lattices.
+ * 
+ * Not to be confused with sequences of lattice points.
+ */
+namespace LatSeq {
+}}

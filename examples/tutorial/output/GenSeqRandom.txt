@@ -1,0 +1,8 @@
+lattice size: 31 (4 random samples)
+          sequence: [11, 2, 6, 15]
+     same sequence: [11, 2, 6, 15]
+    other sequence: [5, 14, 6, 8]
+lattice size: 256 (4 random samples)
+          sequence: [115, 71, 61, 51]
+     same sequence: [115, 71, 61, 51]
+    other sequence: [31, 115, 25, 37]

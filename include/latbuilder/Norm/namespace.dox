@@ -1,0 +1,7 @@
+namespace LatBuilder {
+
+/**
+ * Normalizations and bounds.
+ */
+namespace Norm {
+}}

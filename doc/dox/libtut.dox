@@ -1,0 +1,47 @@
+// This file is part of LatNet Builder.
+//
+// Copyright (C) 2012-2018  Pierre L'Ecuyer and Universite de Montreal
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+/** \page libtut Library Tutorial
+
+This tutorial aims at explaining through a series of examples how to use the
+different facilities provided by the LatNet Builder application programming
+interface.
+The complete code of the examples in this tutorial can be found under the \c
+examples/tutorial/ directory.
+
+The library is divided in two namespaces: LatBuilder and NetBuilder. The first namespace
+corresponds to the construction of lattice rules whereas the latter deals with
+the construction of digital nets. The interdependency between these two libraries is explained
+in this \ref libtut_impl_spaghetti "section" of the implementation notes.
+
+This tutorial is divided in three parts:
+- \subpage libtut_lat
+- \subpage libtut_net
+- \subpage libtut_impl
+
+
+To use the library, you must include the \link netbuilder/Path.h \endlink file in your program and use the appropriate
+function to set the path to the directory containing the `latnetbuilder` executable. 
+For instance, if the `latnetbuilder` command is in the PATH environment variable and you are on a Unix-system, use
+\verbatim
+#include "netbuilder/Path.h"
+NetBuilder::FIND_PATH_TO_LATNETBUILDER_DIR();
+\endverbatim
+Other functions can be used to directly set an absolute path to the directory containing the `latnetbuilder`
+executable such as NetBuilder::SET_PATH_TO_LATNETBUILDER_DIR.
+
+*/
+vim: ft=doxygen spelllang=en spell

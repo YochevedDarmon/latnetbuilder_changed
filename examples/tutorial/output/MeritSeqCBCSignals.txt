@@ -1,0 +1,235 @@
+figure of merit: Projection Dependent Merit: spectral^1 (symmetric) - Accumulator: Max
+Norm Type: 2
+Weights: ProductWeights([], default=0.7)
+CBC search for dimension: 1
+base lattice: 
+Ordinary Lattice - Modulus = 256 - Generating vector = []
+base merit value: 0
+new projections: [{0}]
+BEST LATTICE: 
+Ordinary Lattice - Modulus = 256 - Generating vector = [1]
+Merit value: 0.7
+CBC search for dimension: 2
+base lattice: 
+Ordinary Lattice - Modulus = 256 - Generating vector = [1]
+base merit value: 0.7
+new projections: [{1}, {0,1}]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 21]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 23]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 25]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 29]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 31]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 33]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 35]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 37]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 39]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 41]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 43]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 47]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 49]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 51]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 53]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 55]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 57]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 59]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 61]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 63]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 65]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 67]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 69]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 73]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 77]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 79]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 81]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 83]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 85]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 87]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 89]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 93]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 95]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 97]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 101]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 103]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 105]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 107]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 109]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 111]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 113]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 115]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 117]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 121]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 123]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 125]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 127]
+BEST LATTICE: 
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15]
+Merit value: 0.7
+CBC search for dimension: 3
+base lattice: 
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15]
+base merit value: 0.7
+new projections: [{2}, {0,2}, {1,2}, {0,1,2}]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 9]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 13]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 15]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 17]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 21]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 23]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 25]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 27]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 29]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 31]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 33]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 35]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 37]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 41]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 43]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 45]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 47]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 49]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 51]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 53]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 55]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 57]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 59]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 61]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 63]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 65]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 67]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 69]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 71]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 73]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 75]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 77]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 79]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 81]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 83]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 85]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 87]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 89]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 91]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 93]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 95]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 97]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 99]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 101]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 103]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 105]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 107]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 109]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 111]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 113]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 115]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 117]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 119]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 121]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 123]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 125]
+rejected:
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 127]
+BEST LATTICE: 
+Ordinary Lattice - Modulus = 256 - Generating vector = [1, 15, 39]
+Merit value: 0.746627

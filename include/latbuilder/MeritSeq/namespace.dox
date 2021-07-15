@@ -1,0 +1,6 @@
+namespace LatBuilder {
+/**
+ * Sequences of merit values.
+ */
+namespace MeritSeq {
+}}
